@@ -36,8 +36,8 @@
 <p align="center">
   <img src="http://i.imgur.com/08fcV2w.png"> <br>
   Fig 1 - Progress Bar in Terminal<br><br><br>
-  <img src="http://i.imgur.com/LxvxOfR.png"> <br>
+  <img src="https://i.imgur.com/ZloIx9L.png"> <br>
   Fig 2 - Downloaded Video Files<br><br><br>
-  <img src="http://i.imgur.com/c5F4zWY.png"> <br>
+  <img src="https://i.imgur.com/LKYZvmU.png"> <br>
   Fig 3 - Downloaded audio Files
 </p>
